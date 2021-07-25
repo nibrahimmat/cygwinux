@@ -1,0 +1,1 @@
+%~dp0App\Runtime\cygwin\cygwin.bat

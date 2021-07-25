@@ -1,0 +1,1 @@
+%~dp0App\Runtime\cygwin\bin\run.exe --quote /usr/bin/bash.exe -l -c "exec /usr/bin/xlaunch -load"

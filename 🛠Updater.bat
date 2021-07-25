@@ -1,0 +1,1 @@
+%~dp0App\Runtime\cygwin-portable-updater.cmd

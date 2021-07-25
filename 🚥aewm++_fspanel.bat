@@ -1,0 +1,1 @@
+%~dp0App\Runtime\cygwin\bin\run.exe --quote /usr/bin/bash.exe -l -c "cd; XSESSION_ICON=xfce4_xicon exec /usr/bin/startx /etc/X11/xinit/Xsession aewm++_fspanel"
